@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Run Tracker</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_runs">My runs</string>
+    <string name="statistics">Statistics</string>
+    <string name="profile">Profile</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="new_run">new run</string>
+    <string name="welcome">Welcome to Run tracker</string>
+    <string name="settings_title">Enter your name and your weight to create your profile.</string>
+    <string name="name">Name</string>
+    <string name="your_name">your name</string>
+    <string name="weight">weight (Kg)</string>
+    <string name="your_weight">your weight (Kg)</string>
+    <string name="continue_txt">Continue</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_calories_burned">Total Calories Burned</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="finish_run">Finish Run</string>
+    <string name="calories">CALORIES</string>
+    <string name="avg_speed">AVG-SPEED</string>
+    <string name="distance">DISTANCE</string>
+    <string name="time">TIME</string>
+    <string name="date">DATE</string>
+    <string name="cancel_run_dialog_title">Cancel the Run?</string>
+    <string name="cancel_run_dialog_message">Are you sure to cancel the current run ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
